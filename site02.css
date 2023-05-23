@@ -1,0 +1,20 @@
+.checkMark {
+  font-size: 1.5rem;
+  color: rgb(62, 255, 62);
+}
+
+.xMark {
+  font-size: 1.5rem;
+  color: red;
+}
+
+.examples td {
+  font-size: 1.5rem;
+}
+.head-nav {
+  background: #222;
+  padding: 0.3rem 1.5rem;
+}
+#lion {
+  width: 50px;
+}
